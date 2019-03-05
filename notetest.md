@@ -1,7 +1,7 @@
 # Note Markdown Testing
 1. # Main Chapter Section
-   - [1.1 Sub Chapter](#1.1-sub-chapter)
-   - [1.2 Sub Chapter](#1.2-sub-chapter)
+   - [1.1 Sub Chapter](#11-sub-chapter)
+   - [1.2 Sub Chapter](#12-sub-chapter)
 
  ## Testing text wee woo wee woo
 

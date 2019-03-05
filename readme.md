@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-1. [This should link to the first chapter][#notetest.md]
+1. [This should link to the first chapter](#notetest.md)

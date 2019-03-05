@@ -5,14 +5,14 @@
 
  ## Testing text wee woo wee woo
 
- 1.1 Sub Chapter
+ ## 1.1 Sub Chapter
 
  test text blah blah
  * test text blah
  * blah list blah
   * blah list text
 
-1.2 Sub Chapter
+## 1.2 Sub Chapter
 ### Another test
 > lets test this single quote
 
